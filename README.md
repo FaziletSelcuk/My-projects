@@ -17,10 +17,10 @@ It is necessary to check horizontally,vertically and diagonally for deciding the
 If there is no winner and the game is still running the currentPlayer changes to "O".
 
 ##Technologies Used
-Console based input and output
-Python
-Conditionals(if/else)
-Functions / Methods
+Console based input and output , 
+Python ,
+Conditionals(if/else) ,
+Functions / Methods.
 
 ##How to Run
 python tictactoe.py in terminal
